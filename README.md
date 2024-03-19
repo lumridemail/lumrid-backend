@@ -16,4 +16,4 @@ I recommend Hosting this flask app through a AWS or GCP instance, but you must a
 Otheriwse utilize a proxy provider to mask your IP.
 
 ## If you don't want to host the app yourself
-We host it for you for Free [lumrid.com](www.lumrid.com)
+We host it for you for Free [lumrid.com](https://www.lumrid.com)
